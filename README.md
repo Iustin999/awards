@@ -1,4 +1,4 @@
-<img src="./header.jpg" alt="Presentation photo" width="100%" />
+<img src="./Presentation photo.jpg" alt="Presentation photo" width="100%" />
 
 # Awards & Experiences
 
