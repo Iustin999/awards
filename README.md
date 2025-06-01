@@ -1,3 +1,5 @@
+<img src="./header.jpg" alt="Presentation photo" width="100%" />
+
 # Awards & Experiences
 
 A small collection of photos from competitions, technical events, and personal achievements.
