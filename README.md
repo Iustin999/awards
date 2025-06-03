@@ -6,8 +6,9 @@
 
 <img src="./pictures/Presentation photo.jpg" alt="Presentation" width="80%" />
 <hr>
-<img src="./pictures/2nd prize diploma.jpg." alt="Award" width="50%" />
+<img src="./pictures/2nd prize diploma.jpg." alt="Award" width="50%" style="transform: rotate(-90deg);" />
 <hr>
-<img src="./pictures/certificate of attendance.jpg" alt="Team" width="50%" />
+<img src="./pictures/certificate of attendance.jpg" alt="Attendance" width="50%" style="transform: rotate(-90deg);" />
 <hr>
-<img src="./pictures/diploma_participare.jpg" alt="Team" width="50%" />
+<img src="./pictures/diploma_participare.jpg" alt="Participation" width="50%" />
+
