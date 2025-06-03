@@ -1,7 +1,13 @@
-# Awards & Experiences
+<h2>Awards & Experiences</h2>
 
-A small collection of photos from competitions, technical events, and personal achievements.
+<p>A small collection of photos from competitions, technical events, and personal achievements.</p>
 
-These moments reflect a journey filled with projects, challenges, and great learning experiences.
+<p>These moments reflect a journey filled with projects, challenges, and great learning experiences.</p>
 
-<img src="./pictures/Presentation photo.jpg" alt="Presentation photo" width="80%" />
+<img src="./pictures/Presentation photo.jpg" alt="Presentation" width="80%" />
+<hr>
+<img src="./pictures/2nd prize diploma.jpg." alt="Award" width="50%" />
+<hr>
+<img src="./pictures/certificate of attendance.jpg" alt="Team" width="50%" />
+<hr>
+<img src="./pictures/diploma_participare.jpg" alt="Team" width="50%" />
