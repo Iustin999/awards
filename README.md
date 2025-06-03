@@ -4,4 +4,4 @@ A small collection of photos from competitions, technical events, and personal a
 
 These moments reflect a journey filled with projects, challenges, and great learning experiences.
 
-<img src="./Presentation photo.jpg" alt="Presentation photo" width="80%" />
+<img src="./pictures/Presentation photo.jpg" alt="Presentation photo" width="80%" />
