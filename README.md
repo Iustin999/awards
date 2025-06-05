@@ -6,7 +6,7 @@
 
 <img src="./pictures/Presentation photo.jpg" alt="Presentation" width="80%" />
 <hr>
-<img src="./pictures/2nd prize diploma.jpg." alt="Award" width="50%" style="transform: rotate(-90deg);" />
+<img src="./pictures/2nd prize diploma.jpg" alt="Award" width="50%" style="transform: rotate(-90deg);" />
 <hr>
 <img src="./pictures/certificate of attendance.jpg" alt="Attendance" width="50%" style="transform: rotate(-90deg);" />
 <hr>
