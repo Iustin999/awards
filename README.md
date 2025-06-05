@@ -4,7 +4,7 @@
 
 <p>These moments reflect a journey filled with projects, challenges, and great learning experiences.</p>
 
-<img src="./pictures/Presentation photo.jpg" alt="Presentation" width="80%" />
+<img src="./pictures/Presentation photo.jpg" alt="Presentation" width="100%" />
 <hr>
 <img src="./pictures/2nd prize diploma.jpg" alt="Award" width="80%" />
 <hr>
