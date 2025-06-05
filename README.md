@@ -1,6 +1,6 @@
 <h2>Awards & Experiences</h2>
 
-<p>A small collection of photos from competitions, technical events, and personal achievements.</p>
+<p>A small collection of photos from technical events and personal achievements.</p>
 
 <p>These moments reflect a journey filled with projects, challenges, and great learning experiences.</p>
 
