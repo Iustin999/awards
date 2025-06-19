@@ -6,6 +6,8 @@
 
 <img src="./pictures/Presentation photo.jpg" alt="Presentation" width="100%" />
 <hr>
+<img src="./pictures/upg75th.jpg" alt="Attendance" width="80%" />
+<hr>
 <img src="./pictures/2nd prize diploma.jpg" alt="Award" width="80%" />
 <hr>
 <img src="./pictures/certificate of attendance.jpg" alt="Attendance" width="80%" />
